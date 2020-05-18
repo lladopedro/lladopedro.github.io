@@ -2,7 +2,6 @@
 layout: post
 title: First post: motivation
 ---
-
 Disclaimer
 This blog is not...
 ... an official page for publications or documentation. 
