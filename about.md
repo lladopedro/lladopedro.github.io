@@ -11,7 +11,5 @@ Born and raised in Mallorca, moved to Barcelona where I studied telecommunicatio
 </div>
 
 ### Contact me
-<div style="text-align: justify">
 I will be happy to receive an email from you!
 [lladopedro@gmail.com](mailto:lladopedro@gmail.com)
-</div>
