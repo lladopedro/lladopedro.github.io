@@ -17,5 +17,4 @@ in the Spatial Sound and Psychoacoustics group. Currently working on binaural au
 ### Contact me
 Write me at 
 [lladopedro@gmail.com](mailto:lladopedro@gmail.com)
-[Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab)
 or contact on social media!
