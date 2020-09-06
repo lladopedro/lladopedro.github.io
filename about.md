@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<div style="text-align: justify">
 I am Pedro Lladó, a PhD student at
 [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab)
 in the Spatial Sound and Psychoacoustics group. Currently working on binaural auditory models for extended reality evaluation, continuously learning about psychoacoustics and experimenting with spatial audio.
@@ -17,3 +18,4 @@ Write me at
 [lladopedro@gmail.com](mailto:lladopedro@gmail.com)
 [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab)
 or contact on social media!
+</div>
