@@ -16,6 +16,5 @@ Born and raised in Mallorca, moved to Barcelona where I studied telecommunicatio
 ### Contact me
 Write me at 
 [lladopedro@gmail.com](mailto:lladopedro@gmail.com)
-[Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab)
 or contact on social media!
 </div>
