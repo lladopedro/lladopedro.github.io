@@ -11,5 +11,6 @@ permalink: /about/
 </div>
 
 ### Contact me
-I will be happy to receive an email from you!
+Write me at 
 [lladopedro@gmail.com](mailto:lladopedro@gmail.com)
+or contact on social media!
