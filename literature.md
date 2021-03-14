@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers database
+title: Papers and books literature
 permalink: /books_and_papers_database/
 ---
 
