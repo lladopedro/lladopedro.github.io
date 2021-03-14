@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Papers and books literature
-permalink: /books_and_papers_database/
+permalink: /literature/
 ---
 
 List and summary of highly cited and/or relevant psychoacoustic bibliography
