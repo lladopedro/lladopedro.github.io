@@ -13,4 +13,4 @@ Main topics are experimental procedures for sound localisation experiments, eval
 Easy to read and to understand, I would recommend it to anyone who is trying to learn the basics of spatial hearing.
 ### Binaural cues
 #### Jeffres(1959) - Delay-line based
-This is a test to see how it works.
+This is a test to see how it works...
