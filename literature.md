@@ -4,7 +4,8 @@ title: Psychoacoustics literature
 permalink: /literature/
 ---
 
-List and summary of highly cited and/or relevant psychoacoustics bibliography
+List of highly cited and/or relevant psychoacoustics literature that may be useful to learn the fundamentals.
+This list will be hopefully increasing while I find some topics to write about and some time to do it. If you think that I should include something else here, reach me on social media (see below) or e-mail (lladopedro@gmail.com). 
 
 # Spatial Hearing
 #### Blauert, 1997 (Book) - Spatial hearing: the psychophysics of human sound localization
